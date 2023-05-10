@@ -1,0 +1,21 @@
+body{
+	background-color: darkblue;
+	color: white;
+	text-align: center;
+}
+h1{
+	font-size: 58px;
+}
+p{
+	font-size: 28px;
+}
+a{
+	color: white;
+	font-size: 22px;
+}
+.helyes{
+	color: lime;
+}
+.helytelen{
+	color: red;
+}
